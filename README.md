@@ -4,6 +4,8 @@
 
 Wellcome to the Lego Microscope Github page. The aim is to provide the instructions and resources of the Lego Miscorsope for everybody interested. Additionally, we hope that you get inspired to introduce extension or improvements. We are especially keen on translations of the explorer kit instructions for kids. But here are many other things that you might think you can improve. If so, feel free to create a forge, and to upload your changes.
 
+![alt text](https://github.com/tobetz/LegoMicroscope/blob/main/Images/CAD_model.jpg)
+
 ## Quick Intro
 
 In this repository you will find the following key information to built your own Lego Microscope: 
