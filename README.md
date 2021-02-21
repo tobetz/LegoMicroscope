@@ -19,7 +19,7 @@ In this repository you will find the following key information to built your own
 - The [scientific paper][bioRxiv] we wrote about the Lego Micoscope
 
 <p align="center">
-  <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/build.gif" width="250" title="hover text">
+  <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/build.gif" width="250" title="Under construction :-)">
 </p>
 
 ## The Instructions
@@ -31,7 +31,7 @@ We have two sets of Instructions.
 We created the instructions using the free software LDraw, which allows to generate basically any Lego building instructions. You can download LDraw, follow the instructions to install, and then you can open the CAD file of the plan. Here you have the possibility to add features and improve the plan as you think is good. Please don't forget to share the great improvements by creating a forge.
 
 <p align="center">
-  <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/plan.jpg" width="250" title="hover text">
+  <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/plan.jpg" width="750" title="Example of the plan">
 </p>
 
 ## The Non-Lego Parts
@@ -41,7 +41,7 @@ Although we tried to implement as much as possible using LEgo parts, including t
 - High magnification Objective: HEre we used the plastic lense of a iPhone 4 cmera module. At the time of writing you can get these modules for about 2-4€ via ebay. It's a bit of a shame, as we remove all the fancy electronics, but we only need the lense :-) 
 
 <p align="center">
-  <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/camera.jpg" width="250" title="hover text">
+  <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/camera.jpg" width="250" title="Dissasembled iPhone Camera module">
 </p>
 
 # The explorer Kit
@@ -55,7 +55,7 @@ He have currently generated translations for the explorer kit in several languag
 - French
 
 <p align="center">
-  <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/urzeitkrebse.gif" width="250" title="hover text">
+  <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/urzeitkrebse.gif" width="250" title="Observing little creatures">
 </p>
 
 # 
