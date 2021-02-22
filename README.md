@@ -14,7 +14,7 @@ In this repository you will find the following key information to built your own
 - The building instructions as [PDF][pdf]
 - The parts lists both as [Excel Sheet][parts_excel] and (more important) as [Bricklink xml][parts_xml] list. You can use the Bricklink list to quickly get the bricks in case you have no lego at home. 
 - The links to webpages that cell the occular lenses (Europe, US)
-- The smartphone lense we use here (iPhone 5s camera module). 
+- The smartphone lens we use here (iPhone 5s camera module). 
 - The [Textfile][explorer_text] of the Explorer Kit, which will help you to learn about microscopy and optics while you build the microscope. Or even better, the [ZIP][explorer_zip] file of the explorer kit. 
 - The [scientific paper][bioRxiv] we wrote about the Lego Micoscope
 
@@ -35,10 +35,10 @@ We created the instructions using the free software LDraw, which allows to gener
 </p>
 
 ## The Non-Lego Parts
-Although we tried to implement as much as possible using LEgo parts, including the illumination, we had to use some third party lenses, as lego does not offer optics. In the current state you need 3 types of additional lenses. 
+Although we tried to implement as much as possible using Lego parts, including the illumination, we had to use some third party lenses, as lego does not offer optics. In the current state you need 3 types of additional lenses. 
 - Occular: We used two simple acrylic lens (diameter 34.5 mm, f = 106 mm) as occular, which we combined using simple transparent tape
-- Low Magnification Objective: Here we used a simple glass lense with a diameter of 18 mm and a focal length of 26.5 mm. You are welcome to use any other lenses here. For the lense to be able to mount in the Objective as planned in the instruction be careful about the dimensions. 
-- High magnification Objective: Here we used the plastic lense of a iPhone 5 camera module. At the time of writing you can get these modules for about 2-4€ via ebay. It's a bit of a shame, as we remove all the fancy electronics, but we only need the lense :-) 
+- Low Magnification Objective: Here we used a simple glass lens with a diameter of 18 mm and a focal length of 26.5 mm. You are welcome to use any other lenses here. For the lens to be able to mount in the Objective as planned in the instruction be careful about the dimensions. 
+- High magnification Objective: Here we used the plastic lens of a iPhone 5 camera module. At the time of writing you can get these modules for about 2-4€ via ebay. It's a bit of a shame, as we remove all the fancy electronics, but we only need the lens :-) 
 
 <p align="center">
   <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/camera.jpg" width="250" title="Dissasembled iPhone Camera module">
@@ -49,7 +49,7 @@ To have a bit more fun with the instructions, we generted a little guided tour t
 BEWARE: For the Explorer Kit, you (adult) have to prebuild the objectives. This part is a bit hard for smaller children. If your kids are already experts, the you can let them do it, but they need to use some sharp tools to dissasebmle the smartphone camera module. So please be careful and stay with them to avoid any injury!
 
 As for the instructions, we would be happy if you generte any improvements or extension for the explorer kit. Just create a fork and submitt your changes. 
-He have currently generated translations for the explorer kit in several languages:
+We have currently generated translations for the explorer kit in several languages:
 - English
 - German
 - Dutch
