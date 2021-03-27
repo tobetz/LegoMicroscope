@@ -72,7 +72,7 @@ This work is licensed under a
 
 
 [link_ldraw]: https://www.ldraw.org/article/104.html
-[parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/Lego_Package/Mikroscope_plan Bricklink file.xml
+[parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/Lego_Package/Mikroscope_plan_Bricklink_file.xml
 [parts_excel]: https://github.com/tobetz/LegoMicroscope/blob/main/parts.xls
 [pdf]: https://github.com/tobetz/LegoMicroscope/blob/main/instructions.pdf
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
