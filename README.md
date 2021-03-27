@@ -2,7 +2,7 @@
 [Deutsch][Readme_D]   [English][Readme]
 # LegoMicroscope
 
-Wellcome to the Lego Microscope Github page. The aim is to provide the instructions and resources of the Lego Miscorsope for everybody interested. Additionally, we hope that you get inspired to introduce extension or improvements. We are especially keen on translations of the explorer kit instructions for kids. But here are many other things that you might think you can improve. If so, feel free to create a forge, and to upload your changes.
+Welcome to the Lego Microscope Github page. The aim is to provide the instructions and resources of the Lego Miscorsope for everybody interested. Additionally, we hope that you get inspired to introduce extension or improvements. We are especially keen on translations of the explorer kit instructions for kids. But here are many other things that you might think you can improve. If so, feel free to create a forge, and to upload your changes.
 
 <p align="center">
   <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/CAD_model.jpg" width="250" title="hover text">
@@ -54,7 +54,7 @@ We have currently generated translations for the explorer kit in several languag
 - German
 - Dutch
 - Spanisch
-- French
+
 
 <p align="center">
   <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/urzeitkrebse.gif" width="250" title="Observing little creatures">
