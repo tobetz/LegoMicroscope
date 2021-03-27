@@ -72,7 +72,7 @@ This work is licensed under a
 
 
 [link_ldraw]: https://www.ldraw.org/article/104.html
-[parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/Lego_Package/Mikroscope_plan_Bricklink_file.xml
+[parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/Mikroscope_plan_Bricklink_file.xml
 [parts_excel]: https://github.com/tobetz/LegoMicroscope/blob/main/parts.xls
 [pdf]: https://github.com/tobetz/LegoMicroscope/blob/main/instructions.pdf
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
@@ -81,4 +81,4 @@ This work is licensed under a
 [Readme_D]: https://github.com/tobetz/LegoMicroscope/blob/main/README_D.md
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
-[UK_Lense]: http://www.astromediashop.co.uk/Components.html
+[UK Lense]: http://www.astromediashop.co.uk/Components.html
