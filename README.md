@@ -81,4 +81,4 @@ This work is licensed under a
 [Readme_D]: https://github.com/tobetz/LegoMicroscope/blob/main/README_D.md
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
-[UK Lense]: http://www.astromediashop.co.uk/Components.html
+[UK_Lense]: http://www.astromediashop.co.uk/Components.html
