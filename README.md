@@ -45,7 +45,7 @@ Although we tried to implement as much as possible using Lego parts, including t
 </p>
 
 # The Explorer Kit
-To have a bit more fun with the instructions, we generated a little guided tour that helps you to explore the potential of the Lego microscope. It is a simple idea to learn about optics while you built it. Did you know the difference between a magnification glass and a microscope? You might be supervised how simple a microscope in principle is!
+To have a bit more fun with the instructions, we generated a little guided tour that helps you to explore the potential of the Lego microscope. It is a simple idea to learn about optics while you built it. Did you know the difference between a magnification glass and a microscope? You might be suprised how simple a microscope in principle is!
 BEWARE: For the Explorer Kit, you (adult) have to prebuild the objectives. This part is a bit hard for smaller children. If your kids are already experts, the you can let them do it, but they need to use some sharp tools to disassemble the smartphone camera module. So please be careful and stay with them to avoid any injury!
 
 As for the instructions, we would be happy if you generate any improvements or extension for the explorer kit. Just create a fork and submit your changes. 
@@ -72,7 +72,11 @@ This work is licensed under a
 
 
 [link_ldraw]: https://www.ldraw.org/article/104.html
+<<<<<<< Updated upstream
 [parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/Mikroscope_plan_Bricklink_file.xml
+=======
+[parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/Lego_Package/Mikroscope_plan_Bricklink_file.xml
+>>>>>>> Stashed changes
 [parts_excel]: https://github.com/tobetz/LegoMicroscope/blob/main/parts.xls
 [pdf]: https://github.com/tobetz/LegoMicroscope/blob/main/instructions.pdf
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
