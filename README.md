@@ -13,7 +13,7 @@ Welcome to the Lego Microscope GitHub page. The aim is to provide the instructio
 In this repository you will find the following key information to built your own Lego Microscope: 
 - The building instructions as [PDF][pdf]
 - The parts lists as [Bricklink xml][parts_xml] list. You can use the Bricklink list to quickly get the bricks in case you have no Lego at home. 
-- The links to webpages that sell the ocular lenses (Europe, US)
+- The links to webpages that sell the ocular lenses ([Europe][EU_Lense], [UK][UK_Lense])
 - The smartphone lens we use here (iPhone 5s camera module). 
 - The [Textfile][explorer_text] of the Explorer Kit, which will help you to learn about microscopy and optics while you build the microscope. Or even better, the [ZIP][explorer_zip] file of the explorer kit. 
 - The [scientific paper][bioRxiv] we wrote about the Lego Microscope
@@ -36,7 +36,7 @@ We created the instructions using the free software LDraw, which allows to gener
 
 ## The Non-Lego Parts
 Although we tried to implement as much as possible using Lego parts, including the illumination, we had to use some third party lenses, as Lego does not offer optics. In the current state you need 3 types of additional lenses. 
-- Ocular: We used two simple acrylic lens (diameter 34.5 mm, f = 106 mm) as occular, which we combined using simple transparent tape
+- Ocular: We used two simple acrylic lens (diameter 34.5 mm, f = 106 mm) as occular, which we combined using simple transparent tape. In the current setup we use the lense number 308.OM7. ([Europe][EU_Lense], [UK][UK_Lense])
 - Low Magnification Objective: Here we used a simple glass lens with a diameter of 18 mm and a focal length of 26.5 mm. You are welcome to use any other lenses here. For the lens to be able to mount in the Objective as planned in the instruction be careful about the dimensions. 
 - High magnification Objective: Here we used the plastic lens of a iPhone 5 camera module. At the time of writing you can get these modules for about 2-4€ via ebay. It's a bit of a shame, as we remove all the fancy electronics, but we only need the lens :-) 
 
@@ -80,3 +80,5 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 [Readme_D]: https://github.com/tobetz/LegoMicroscope/blob/main/README_D.md
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
+[EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
+[UK Lense]: http://www.astromediashop.co.uk/Components.html
