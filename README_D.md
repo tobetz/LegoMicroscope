@@ -12,10 +12,10 @@ Willkommen zur Lego Mikroskop GitHub Seite. Unser Ziel ist es die Bauanleitungen
 
 In diesem Prository findest du die folgenden Schlüsselinformationen um Dein eigenes Lego Mikroskop zu bauen: 
 - Die Bauanleitung als [PDF][pdf]
-- Die Teile-Liste as [Bricklink ldr][Mikroscope_plan_parts_Bricklink.ldr] Liste. Diese Liste kannst Du dirket bei Bricklink hochladen um schnell die Teile zu bestellen, falls Du keine Legosteine zuhause hast, oder manche Steine fehlen.  
+- Die Teile-Liste as [Bricklink ldr][bricklink_list] Liste. Diese Liste kannst Du dirket bei Bricklink hochladen um schnell die Teile zu bestellen, falls Du keine Legosteine zuhause hast, oder manche Steine fehlen.  
 - Links zu Webseiten bei denen ihr die Okkular Linse kaufen könnt ([Europe][EU_Lense], [UK][UK_Lense])
 - Die Smartphone Linse die wir als Objektiv genutzt haben (iPhone 5s Kamera Modul). 
-- Die Texte [Textfile][explorer_text] des Entdecker Kits, welches Euch helfen kann alles über ein Mikroskop und die Optiken zu lernen während Du ein richtiges Mikroskop baust. Oder gleich die [ZIP][explorer_zip] Datei des Explorer Kits? 
+- Das Entdecker Kit, welches Euch helfen kann alles über ein Mikroskop und die Optiken zu lernen während Du ein richtiges Mikroskop baust.
 - Das Wissenschaftliche Papier [scientific paper][bioRxiv] das wir über das Lego Mikroskop geschrieben haben.
 
 <p align="center">
@@ -26,7 +26,7 @@ In diesem Prository findest du die folgenden Schlüsselinformationen um Dein eig
 
 Wir haben zwei Anleitungen erstellt. 
 - Einmal des kompletten Plan den Du nutzen kannst wenn du einfach nur das Mikroskop bauen willst. 
-- Dann noch einen Plan der in die Teile A,B,C und D, eingeteilt ist, welches den Anleitunges des Entecker Kits folgt. In diesem Fall wäre es am einfachsten das Zip File direkt zu laden [ZIP][explorer_zip]. 
+- Dann noch einen Plan der in die Teile A, B, C, D und E eingeteilt ist, welches den Anleitunges des Entecker Kits folgt. In diesem Fall wäre es am einfachsten das [LEGO package folder][Ordner] mit allen Informationen herunterzuladen.
 
 Wir haben die Anleitung mit der kostenlosen Software LDraw erstellt, welche es erlaubt quasi jede Lego Bauanleitung herzustellen. Du kannst dieses Program herunterladen [LDraw][link_ldraw], und installieren um direkt das CAD File unseres Plans zu öffnen. Hier hast Du die Möglichkeit Zusatzfunktionen einzubauen und den Plan zu verbessern. Bitte vergiss nicht deine Verbesserungen mit uns zu teilen, indem Du einen Forge generierst und alles hochlädst. 
 
@@ -73,13 +73,8 @@ This work is licensed under a
 
 
 [link_ldraw]: https://www.ldraw.org/article/104.html
-<<<<<<< Updated upstream
-[parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/Mikroscope_plan_Bricklink_file.xml
-=======
-[parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/Lego_Package/Mikroscope_plan_Bricklink_file.xml
->>>>>>> Stashed changes
-[parts_excel]: https://github.com/tobetz/LegoMicroscope/blob/main/parts.xls
-[pdf]: https://github.com/tobetz/LegoMicroscope/blob/main/instructions.pdf
+[bricklink_list]: https://github.com/tobetz/LegoMicroscope/blob/main/Just_Plans_and_Parts/Mikroscope_plan_parts_Bricklink.ldr
+[pdf]: https://github.com/tobetz/LegoMicroscope/blob/main/Just_Plans_and_Parts/Mikroscope_plan.pdf
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
@@ -87,4 +82,6 @@ This work is licensed under a
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
 [UK_Lense]: http://www.astromediashop.co.uk/Components.html
+[package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
+[bioRxiv]: https://www.biorxiv.org/
 
