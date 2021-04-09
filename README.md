@@ -12,7 +12,7 @@ Welcome to the Lego Microscope GitHub page. The aim is to provide the instructio
 
 In this repository you will find the following key information to built your own Lego Microscope: 
 - The building instructions as [PDF][pdf]
-- The parts lists as [Bricklink ldr][ LegoMicroscope/Just_Plans_and_Parts/Mikroscope_plan_parts_Bricklink.ldr ] list. You can use the Bricklink list to quickly get the bricks in case you have no Lego at home. 
+- The parts lists as [Bricklink ldr][bricklink_list] list. You can use the Bricklink list to quickly get the bricks in case you have no Lego at home. 
 - The links to webpages that sell the ocular lenses ([Europe][EU_Lense], [UK][UK_Lense])
 - The smartphone lens we use here (iPhone 5s camera module). 
 - The [Textfile][explorer_text] of the Explorer Kit, which will help you to learn about microscopy and optics while you build the microscope. Or even better, the [ZIP][explorer_zip] file of the explorer kit. 
@@ -72,6 +72,7 @@ This work is licensed under a
 
 
 [link_ldraw]: https://www.ldraw.org/article/104.html
+[bricklink_list]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/Just_Plans_and_Parts/Mikroscope_plan_parts_Bricklink.ldr
 <<<<<<< Updated upstream
 [parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/Mikroscope_plan_Bricklink_file.xml
 =======
