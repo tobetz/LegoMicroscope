@@ -15,7 +15,7 @@ In this repository you will find the following key information to built your own
 - The parts lists as [Bricklink ldr][bricklink_list] list. You can use the Bricklink list to quickly get the bricks in case you have no Lego at home. 
 - The links to webpages that sell the ocular lenses ([Europe][EU_Lense], [UK][UK_Lense])
 - The smartphone lens we use here (iPhone 5s camera module). 
-- The Explorer Kit, which will help you to learn about microscopy and optics while you build the microscope. Or even better, the [ZIP][explorer_zip] file of the explorer kit. 
+- The Explorer Kit, which will help you to learn about microscopy and optics while you build the microscope.
 - The [scientific paper][bioRxiv] we wrote about the Lego Microscope
 
 <p align="center">
@@ -26,7 +26,7 @@ In this repository you will find the following key information to built your own
 
 We have two sets of Instructions. 
 - The full plan that you want to use to build the entire microscope. 
-- A plan that is separated into five parts A, B,C, D and E, which is used if you want to follow the Explorer Kit. In case you want to do this, we advertise to directly download the  [ZIP][explorer_zip] file containing all the info for the kit. 
+- A plan that is separated into five parts A, B,C, D and E, which is used if you want to follow the Explorer Kit. In case you want to do this, we suggest downloading the [LEGO package folder][package_folder] containing all the info for the kit. 
 
 We created the instructions using the free software LDraw, which allows to generate basically any Lego building instructions. You can download [LDraw][link_ldraw], follow the instructions to install, and then you can open the CAD file of the plan. Here you have the possibility to add features and improve the plan as you think is good. Please don't forget to share the great improvements by creating a forge.
 
@@ -81,5 +81,5 @@ This work is licensed under a
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
 [UK_Lense]: http://www.astromediashop.co.uk/Components.html
-[explorer_zip]: https://github.com/tobetz/LegoMicroscope/archive/master.zip
+[package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
 [bioRxiv]: https://www.biorxiv.org/
