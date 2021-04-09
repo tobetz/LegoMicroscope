@@ -12,7 +12,7 @@ Willkommen zur Lego Mikroskop GitHub Seite. Unser Ziel ist es die Bauanleitungen
 
 In diesem Prository findest du die folgenden Schlüsselinformationen um Dein eigenes Lego Mikroskop zu bauen: 
 - Die Bauanleitung als [PDF][pdf]
-- Die Teile-Liste as [Bricklink xml][parts_xml] Liste. Diese Liste kannst Du dirket bei Bricklink hochladen um schnell die Teile zu bestellen, falls Du keine Legosteine zuhause hast, oder manche Steine fehlen.  
+- Die Teile-Liste as [Bricklink ldr][Mikroscope_plan_parts_Bricklink.ldr] Liste. Diese Liste kannst Du dirket bei Bricklink hochladen um schnell die Teile zu bestellen, falls Du keine Legosteine zuhause hast, oder manche Steine fehlen.  
 - Links zu Webseiten bei denen ihr die Okkular Linse kaufen könnt ([Europe][EU_Lense], [UK][UK_Lense])
 - Die Smartphone Linse die wir als Objektiv genutzt haben (iPhone 5s Kamera Modul). 
 - Die Texte [Textfile][explorer_text] des Entdecker Kits, welches Euch helfen kann alles über ein Mikroskop und die Optiken zu lernen während Du ein richtiges Mikroskop baust. Oder gleich die [ZIP][explorer_zip] Datei des Explorer Kits? 
