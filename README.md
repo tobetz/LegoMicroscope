@@ -72,14 +72,8 @@ This work is licensed under a
 
 
 [link_ldraw]: https://www.ldraw.org/article/104.html
-[bricklink_list]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/Just_Plans_and_Parts/Mikroscope_plan_parts_Bricklink.ldr
-<<<<<<< Updated upstream
-[parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/Mikroscope_plan_Bricklink_file.xml
-=======
-[parts_xml]: https://github.com/tobetz/LegoMicroscope/blob/Lego_Package/Mikroscope_plan_Bricklink_file.xml
->>>>>>> Stashed changes
-[parts_excel]: https://github.com/tobetz/LegoMicroscope/blob/main/parts.xls
-[pdf]: https://github.com/tobetz/LegoMicroscope/blob/main/instructions.pdf
+[bricklink_list]: https://github.com/tobetz/LegoMicroscope/blob/main/Just_Plans_and_Parts/Mikroscope_plan_parts_Bricklink.ldr
+[pdf]: https://github.com/tobetz/LegoMicroscope/blob/main/Just_Plans_and_Parts/Mikroscope_plan.pdf
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
