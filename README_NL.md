@@ -16,11 +16,10 @@ Met "Create fork" kan je via Github veranderingen uploaden.
 In deze repository vind je de volgende informatie die je nodig hebt om je eigen LEGO microscoop te bouwen:
 - Een [PDF][pdf] met de handleiding
 - Een [Bricklink ldr][bricklink_list] bestand met een lijst met alle onderdelen. Via [Bricklink.com][bricklink_link] kan je deze lijst uploaden en de LEGO onderdelen
-bestellen die je niet zelf hebt.
-- Links waar je de lenzen kan bestellen ([Europa][EU_Lense], [UK][UK_Lense])
-- De de lens uit een oude smartphone camera (iPhone 5s). 
+bestellen die je niet zelf hebt
+- Links waar je de lenzen kan bestellen die je nodig hebt
 - Het ontdekkers bouwpakket, dat je begeleidt bij het bouwen van de microscoop
-- Een [wetenschappelijk artikel][bioRxiv] dat we over de microscoop hebben geschreven.
+- Een [wetenschappelijk artikel][bioRxiv] dat we over de microscoop hebben geschreven
 
 <p align="center">
   <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/build.gif" width="250" title="Under construction :-)">
