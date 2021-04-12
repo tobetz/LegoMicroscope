@@ -37,7 +37,7 @@ We created the instructions using the free software LDraw, which allows to gener
 ## The Non-Lego Parts
 Although we tried to implement as much as possible using Lego parts, including the illumination, we had to use some third party lenses, as Lego does not offer optics. In the current state you need 3 types of additional lenses. 
 - Ocular: We used two simple acrylic lens (diameter 34.5 mm, f = 106 mm) as occular, which we combined using simple transparent tape. In the current setup we use the lense number 308.OM7. ([Europe][EU_Lense], [UK][UK_Lense])
-- Low Magnification Objective: Here we used a simple glass lens with a diameter of 18 mm and a focal length of 26.5 mm. You are welcome to use any other lenses here. For the lens to be able to mount in the Objective as planned in the instruction be careful about the dimensions. 
+- Low Magnification Objective: Here we used a simple glass lens with a diameter of 18 mm and a focal length of 26.5 mm. In the current setup we use the lens number 551.OA51 ([EU][EU_lense_glas], [UK][UK_Lense]). You are welcome to use any other lenses here. For the lens to be able to mount in the objective as planned in the instruction: be careful about the dimensions. 
 - High magnification Objective: Here we used the plastic lens of a iPhone 5 camera module. At the time of writing you can get these modules for about 2-4€ via ebay. It's a bit of a shame, as we remove all the fancy electronics, but we only need the lens :-) 
 
 <p align="center">
@@ -81,6 +81,7 @@ This work is licensed under a
 [Readme_D]: https://github.com/tobetz/LegoMicroscope/blob/main/README_D.md
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
+[EU_Lense_glas]: https://astromedia.de/Opti-MediaAchromat-51
 [UK_Lense]: http://www.astromediashop.co.uk/Components.html
 [package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
 [bioRxiv]: https://www.biorxiv.org/content/10.1101/2021.04.11.439311v1
