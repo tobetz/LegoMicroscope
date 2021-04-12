@@ -1,5 +1,5 @@
 
-[English][Readme]   [Deutsch][Readme_D]
+[English][Readme]   [Deutsch][Readme_D]   [Nederlands][Readme_NL]
 # LegoMicroscope
 
 Welcome to the Lego Microscope GitHub page. The aim is to provide the instructions and resources of the Lego Microscope for everybody interested. Additionally, we hope that you get inspired to introduce extension or improvements. We are especially keen on translations of the explorer kit instructions for kids. But here are many other things that you might think you can improve. If so, feel free to create a forge, and to upload your changes.
@@ -78,6 +78,7 @@ This work is licensed under a
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[Readme_NL]: https://github.com/tobetz/LegoMicroscope/blob/main/README_NL.md
 [Readme_D]: https://github.com/tobetz/LegoMicroscope/blob/main/README_D.md
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
