@@ -1,5 +1,5 @@
 
-[English][Readme]    [Deutsch][Readme_D]   [Nederlands][Readme_NL]
+[English][Readme]   [Deutsch][Readme_D]   [Nederlands][Readme_NL]   [Español][Readme_ES]   [Français][Readme_FR]
 # LegoMikroskop
 
 Willkommen zur Lego Mikroskop GitHub Seite! Unser Ziel ist es die Bauanleitungen und Zusatzinformationen für das Lego Mikroskop jedem interessierten Menschen bereitzustellen. Außerdem hoffen wir Euch damit inspirieren zu können, so dass ihr vielleicht Erweiterungen oder Verbesserungen erstellen werdet. Besonders über weitere Übersetzungen des Entdeckerkits würden wir uns freuen. Aber es gibt bestimmt viele Dinge und Ideen, die ihr haben könntet, um das Mikroskop zu verbessern und zu erweitern. Falls ihr eine gute Idee habt, zögert nicht einen 'Fork' (Kopie) in Github zu erstellen und Eure Vorschläge dort hochzuladen.  
@@ -83,6 +83,8 @@ This work is licensed under a
 [Readme_NL]: https://github.com/tobetz/LegoMicroscope/blob/main/README_NL.md
 [Readme_D]: https://github.com/tobetz/LegoMicroscope/blob/main/README_D.md
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
+[Readme_FR]: https://github.com/tobetz/LegoMicroscope/blob/main/README_FR.md
+[Readme_ES]: https://github.com/tobetz/LegoMicroscope/blob/main/README_ES.md
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
 [UK_Lense]: http://www.astromediashop.co.uk/Components.html
 [package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
