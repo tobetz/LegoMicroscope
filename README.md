@@ -54,6 +54,7 @@ We have currently generated translations for the explorer kit in several languag
 - German
 - Dutch
 - Spanish
+- French
 
 
 <p align="center">
