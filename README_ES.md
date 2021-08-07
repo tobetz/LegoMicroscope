@@ -1,7 +1,7 @@
 [English][Readme]   [Deutsch][Readme_D]   [Nederlands][Readme_NL]   [Español][Readme_ES]    [Français][Readme_FR]
 # LegoMikroskop
 
-¡Bienvenidos a la página GitHub del microscopio de Lego! Nuestra meta es poner diversas instrucciones e informaciones suplementarias sobre el microscopio de Lego a disposición de todas las personas interesadas. Además esperamos poder inspiraros de modo que quizás vosotros mismos podáis crear extensiones o propuestas de mejoramiento. Estaríamos especialmente contentos de poder recibir más traducciones de nuestro set descubridor.  Estamos convencidos de que muchos de vosotros podréis mejorar y ampliar el microscopio con algunas de vuestras ideas. Si tenéis una buena idea, no dudéis en crear un “Folk” (copia) en la página de GitHub y subir ahí vuestras proposiciones.   
+¡Bienvenidos a la página GitHub del microscopio de Lego! Nuestra meta es poner diversas instrucciones e informaciones suplementarias sobre el microscopio de Lego a disposición de todas las personas interesadas. Además esperamos poder inspiraros de modo que quizás vosotros mismos podáis crear extensiones o propuestas de mejoramiento. Estaríamos especialmente contentos de poder recibir más traducciones de nuestro set descubridor.  Estamos convencidos de que muchos de vosotros podréis mejorar y ampliar el microscopio con algunas de vuestras ideas. Si tenéis una buena idea, no dudéis en crear un “Fork” (copia) en la página de GitHub y subir ahí vuestras proposiciones.   
 
 <p align="center">
   <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/CAD_model.jpg" width="250" title="hover text">
