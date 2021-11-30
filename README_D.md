@@ -52,10 +52,10 @@ VORSICHT: Für das Entdeckerkit, muss ein Erwachsener die Objektive vorbauen. Di
 
 Was die Anleitung des Entdeckerkits angeht, so wären wir sehr glücklich, wenn Ihr Verbesserungen oder Erweiterungen an uns weiter gebt. Erstellt einen Fork und ladet die Änderungen hoch. Aktuell haben wir vier Übersetzungen des Explorerkits erstellt, jede weitere würde uns unendlich freuen.  
 
-- Englisch
-- Deutsch
-- Niederländisch
-- Spanisch
+- [Englisch][ExplorerKitEN]
+- [Deutsch][ExplorerKitD]
+- [Niederländisch][ExplorerKitNL]
+- [Spanisch][ExplorerKitES]
 
 
 <p align="center">
@@ -85,6 +85,10 @@ This work is licensed under a
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 [Readme_FR]: https://github.com/tobetz/LegoMicroscope/blob/main/README_FR.md
 [Readme_ES]: https://github.com/tobetz/LegoMicroscope/blob/main/README_ES.md
+[ExplorerKitEN]: https://github.com/tobetz/LegoMicroscope/LegoMicroscope/Lego_Package/EN_Manual discovery kit.docx
+[ExplorerKitD]: https://github.com/tobetz/LegoMicroscope/Lego_Package/DE_Anleitung_Entdecker_Kit.docx
+[ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/Lego_Package/NL_Handleiding bouwpakket.docx
+[ExplorerKitES]: https://github.com/tobetz/LegoMicroscope/Lego_Package/ES_Instrucciones set descubridor.docx
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
 [UK_Lense]: http://www.astromediashop.co.uk/Components.html
 [package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
