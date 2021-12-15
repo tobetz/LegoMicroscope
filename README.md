@@ -50,10 +50,10 @@ BEWARE: For the Explorer Kit, you (adult) have to prebuild the objectives. This 
 
 As for the instructions, we would be happy if you generate any improvements or extension for the explorer kit. Just create a fork and submit your changes. 
 We have currently generated translations for the explorer kit in several languages:
-- English
-- German
-- Dutch
-- Spanish
+- [English][ExplorerKitEN]
+- [German][ExplorerKitD]
+- [Dutch][ExplorerKitNL]
+- [Spanish][ExplorerKitES]
 
 
 <p align="center">
@@ -82,6 +82,10 @@ This work is licensed under a
 [Readme_D]: https://github.com/tobetz/LegoMicroscope/blob/main/README_D.md
 [Readme_FR]: https://github.com/tobetz/LegoMicroscope/blob/main/README_FR.md
 [Readme_ES]: https://github.com/tobetz/LegoMicroscope/blob/main/README_ES.md
+[ExplorerKitEN]: https://github.com/tobetz/LegoMicroscope/LegoMicroscope/Lego_Package/EN_Manual discovery kit.docx
+[ExplorerKitD]: https://github.com/tobetz/LegoMicroscope/Lego_Package/DE_Anleitung_Entdecker_Kit.docx
+[ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/Lego_Package/NL_Handleiding bouwpakket.docx
+[ExplorerKitES]: https://github.com/tobetz/LegoMicroscope/Lego_Package/ES_Instrucciones set descubridor.docx
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
 [EU_Lense_glas]: https://astromedia.de/Opti-MediaAchromat-51
