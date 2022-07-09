@@ -76,6 +76,10 @@ This work is licensed under a
 [link_ldraw]: https://www.ldraw.org/article/104.html
 [bricklink_list]: https://github.com/tobetz/LegoMicroscope/blob/main/Just_Plans_and_Parts/Mikroscope_plan_parts_Bricklink.ldr
 [bricklink_link]: https://www.bricklink.com/
+[EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
+[UK_Lense]: http://www.astromediashop.co.uk/Components.html
+[package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
+[bioRxiv]: https://www.biorxiv.org/content/10.1101/2021.04.11.439311v1
 [pdf]: https://github.com/tobetz/LegoMicroscope/blob/main/Just_Plans_and_Parts/Mikroscope_plan.pdf
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
@@ -89,7 +93,4 @@ This work is licensed under a
 [ExplorerKitD]: https://github.com/tobetz/LegoMicroscope/Lego_Package/DE_Anleitung_Entdecker_Kit.docx
 [ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/Lego_Package/NL_Handleiding bouwpakket.docx
 [ExplorerKitES]: https://github.com/tobetz/LegoMicroscope/Lego_Package/ES_Instrucciones set descubridor.docx
-[EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
-[UK_Lense]: http://www.astromediashop.co.uk/Components.html
-[package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
-[bioRxiv]: https://www.biorxiv.org/content/10.1101/2021.04.11.439311v1
+
