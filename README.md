@@ -26,7 +26,7 @@ In this repository you will find the following key information to built your own
 
 We have two sets of Instructions. 
 - The full plan that you want to use to build the entire microscope. 
-- A plan that is separated into five parts A, B,C, D and E, which is used if you want to follow the Explorer Kit. In case you want to do this, we suggest downloading the [LEGO package folder][package_folder], containing all the info for the kit. 
+- A plan that is separated into five parts A, B, C, D and E, which is used if you want to follow the Explorer Kit. In case you want to do this, we suggest downloading the [LEGO package folder][package_folder], containing all the info for the kit. 
 
 We created the instructions using the free software LDraw, which allows to generate basically any Lego building instructions. You can download [LDraw][link_ldraw], follow the instructions to install, and then you can open the CAD file of the plan. Here you have the possibility to add features and improve the plan as you think is good. Please don't forget to share the great improvements by creating a fork.
 
