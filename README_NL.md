@@ -63,9 +63,10 @@ en voor het uit elkaar halen van de smartphone camera heb je scherp gereedschap 
 
 Net zoals bij het ontwerp voor de microscoop zijn we blij met alle verbeteringen of uitbreidingen van het bouwpakket! Via Github can je deze delen.
 Op het moment zijn er vertalingen van het ontdekkers-bouwpakket in de volgende talen:
-- Engels
-- Duits
-- Nederlands
+- [Engels][ExplorerKitEN]
+- [Duits][ExplorerKitD]
+- [Nederlands][ExplorerKitNL]
+- [Spaans][ExplorerKitES]
 
 <p align="center">
   <img src="https://github.com/tobetz/LegoMicroscope/blob/main/Images/urzeitkrebse.gif" width="250" title="Observing little creatures">
@@ -99,3 +100,7 @@ This work is licensed under a
 [UK_Lense]: http://www.astromediashop.co.uk/Components.html
 [package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
 [bioRxiv]: https://www.biorxiv.org/content/10.1101/2021.04.11.439311v1
+[ExplorerKitEN]: https://github.com/tobetz/LegoMicroscope/LegoMicroscope/Lego_Package/EN_Manual%20discovery%20kit.docx
+[ExplorerKitD]: https://github.com/tobetz/LegoMicroscope/Lego_Package/DE_Anleitung_Entdecker_Kit.docx
+[ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/Lego_Package/NL_Handleiding%20bouwpakket.docx
+[ExplorerKitES]: https://github.com/tobetz/LegoMicroscope/Lego_Package/ES_Instrucciones%20set%20descubridor.docx
