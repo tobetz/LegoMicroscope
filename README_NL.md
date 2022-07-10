@@ -1,6 +1,6 @@
 
 [English][Readme]   [Deutsch][Readme_D]   [Nederlands][Readme_NL]   [Español][Readme_ES]   [Français][Readme_FR]
-# LegoMicroscope
+# LegoMicroscoop
 
 Welkom op de Github-pagina van de LEGO microscoop. Hier zijn alle instructies beschikbaar die nodig zijn om een LEGO  microscoop te bouwen. Daarnaast hopen we dat
 we jullie kunnen inspireren om zelf toevoegingen of verbeteringen te ontwerpen! We zijn ook heel blij met vertalingen van het ontdekkers-bouwpakket in andere talen.
@@ -100,7 +100,7 @@ This work is licensed under a
 [UK_Lense]: http://www.astromediashop.co.uk/Components.html
 [package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
 [bioRxiv]: https://www.biorxiv.org/content/10.1101/2021.04.11.439311v1
-[ExplorerKitEN]: https://github.com/tobetz/LegoMicroscope/LegoMicroscope/Lego_Package/EN_Manual%20discovery%20kit.docx
-[ExplorerKitD]: https://github.com/tobetz/LegoMicroscope/Lego_Package/DE_Anleitung_Entdecker_Kit.docx
-[ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/Lego_Package/NL_Handleiding%20bouwpakket.docx
-[ExplorerKitES]: https://github.com/tobetz/LegoMicroscope/Lego_Package/ES_Instrucciones%20set%20descubridor.docx
+[ExplorerKitEN]: https://github.com/tobetz/LegoMicroscope/blob/main/LegoMicroscope/Lego_Package/EN_Manual%20discovery%20kit.docx
+[ExplorerKitD]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/DE_Anleitung_Entdecker_Kit.docx
+[ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/NL_Handleiding%20bouwpakket.docx
+[ExplorerKitES]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/ES_Instrucciones%20set%20descubridor.docx
