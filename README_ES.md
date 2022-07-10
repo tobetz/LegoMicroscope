@@ -60,10 +60,10 @@ ATENCIÓN: En el set descubridor un adulto deberá construir los objetivos de an
 
 En lo que se refiere a las instrucciones del set descubridor, estaríamos más que contentos si nos dejáis llegar algunas mejoras o sugerencias. Como dicho anteriormente, crea una copia y sube todas tus proposiciones a nuestra página. Actualmente hemos elaborado cuatro traducciones del set explorador, cualquier otra sería de gran ayuda.  
 
-- Englisch
-- Deutsch
-- Niederländisch
-- Spanisch
+- [Inglés][ExplorerKitEN]
+- [Alemán][ExplorerKitD]
+- [Holandés][ExplorerKitNL]
+- [Español][ExplorerKitES]
 
 
 <p align="center">
@@ -97,4 +97,7 @@ This work is licensed under a
 [UK_Lense]: http://www.astromediashop.co.uk/Components.html
 [package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
 [bioRxiv]: https://www.biorxiv.org/content/10.1101/2021.04.11.439311v1
-
+[ExplorerKitEN]: https://github.com/tobetz/LegoMicroscope/blob/main/LegoMicroscope/Lego_Package/EN_Manual%20discovery%20kit.docx
+[ExplorerKitD]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/DE_Anleitung_Entdecker_Kit.docx
+[ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/NL_Handleiding%20bouwpakket.docx
+[ExplorerKitES]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/ES_Instrucciones%20set%20descubridor.docx
