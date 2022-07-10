@@ -87,9 +87,9 @@ This work is licensed under a
 [Readme_D]: https://github.com/tobetz/LegoMicroscope/blob/main/README_D.md
 [Readme_FR]: https://github.com/tobetz/LegoMicroscope/blob/main/README_FR.md
 [Readme_ES]: https://github.com/tobetz/LegoMicroscope/blob/main/README_ES.md
-[ExplorerKitEN]: https://github.com/tobetz/LegoMicroscope/LegoMicroscope/Lego_Package/EN_Manual discovery kit.docx
+[ExplorerKitEN]: https://github.com/tobetz/LegoMicroscope/LegoMicroscope/Lego_Package/EN_Manual%20discovery%20kit.docx
 [ExplorerKitD]: https://github.com/tobetz/LegoMicroscope/Lego_Package/DE_Anleitung_Entdecker_Kit.docx
-[ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/Lego_Package/NL_Handleiding bouwpakket.docx
-[ExplorerKitES]: https://github.com/tobetz/LegoMicroscope/Lego_Package/ES_Instrucciones set descubridor.docx
+[ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/Lego_Package/NL_Handleiding%20bouwpakket.docx
+[ExplorerKitES]: https://github.com/tobetz/LegoMicroscope/Lego_Package/ES_Instrucciones%20set%20descubridor.docx
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 
