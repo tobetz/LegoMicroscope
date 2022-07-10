@@ -54,10 +54,10 @@ Pour s'amuser un peu plus avec les instructions, nous avons généré une petite
 
 Comme pour les instructions, nous serions heureux que vous génériez des améliorations ou des extensions pour le kit d'exploration. Il suffit de créer un fork et de soumettre vos modifications. Nous avons actuellement généré des traductions du kit d'exploration en plusieurs langues :
 
- - Anglais
- - Allemand
- - Néerlandais
- - Espagnol
+ - [Anglais][ExplorerKitEN]
+ - [Allemand][ExplorerKitD]
+ - [Néerlandais][ExplorerKitNL]
+ - [Espagnol][ExplorerKitES]
  - Français
 
 <p align="center">
@@ -92,6 +92,9 @@ This work is licensed under a
 [UK_Lense]: http://www.astromediashop.co.uk/Components.html
 [package_folder]: https://github.com/tobetz/LegoMicroscope/tree/main/Lego_Package
 [bioRxiv]: https://www.biorxiv.org/content/10.1101/2021.04.11.439311v1
-
+[ExplorerKitEN]: https://github.com/tobetz/LegoMicroscope/blob/main/LegoMicroscope/Lego_Package/EN_Manual%20discovery%20kit.docx
+[ExplorerKitD]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/DE_Anleitung_Entdecker_Kit.docx
+[ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/NL_Handleiding%20bouwpakket.docx
+[ExplorerKitES]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/ES_Instrucciones%20set%20descubridor.docx
 
 
