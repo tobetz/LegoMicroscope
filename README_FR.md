@@ -1,4 +1,4 @@
-[English][Readme]   [Deutsch][Readme_D]   [Nederlands][Readme_NL]   [Español][Readme_ES]   [Français][Readme_FR]
+[English][Readme]   [Deutsch][Readme_D]   [Nederlands][Readme_NL]   [Español][Readme_ES]   [Français][Readme_FR]    [Italian][Readme_IT]
 
 # LegoMicroscope
 
@@ -86,6 +86,7 @@ This work is licensed under a
 [Readme_D]: https://github.com/tobetz/LegoMicroscope/blob/main/README_D.md
 [Readme_FR]: https://github.com/tobetz/LegoMicroscope/blob/main/README_FR.md
 [Readme_ES]: https://github.com/tobetz/LegoMicroscope/blob/main/README_ES.md
+[Readme_IT]: https://github.com/tobetz/LegoMicroscope/blob/main/README_IT.md
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
 [EU_Lense_glas]: https://astromedia.de/Opti-MediaAchromat-51
