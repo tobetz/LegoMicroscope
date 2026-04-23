@@ -1,5 +1,5 @@
 
-[English][Readme]   [Deutsch][Readme_D]   [Nederlands][Readme_NL]   [Español][Readme_ES]   [Français][Readme_FR]
+[English][Readme]   [Deutsch][Readme_D]   [Nederlands][Readme_NL]   [Español][Readme_ES]   [Français][Readme_FR]    [Italian][Readme_IT]
 # LegoMicroscope
 
 Welcome to the Lego Microscope GitHub page. The aim is to provide the instructions and resources of the Lego Microscope for everybody interested. Additionally, we hope that you get inspired to introduce extension or improvements. We are especially keen on translations of the explorer kit instructions for kids. But here are many other things that you might think you can improve. If so, feel free to create a forge, and to upload your changes.
@@ -87,6 +87,7 @@ This work is licensed under a
 [Readme_D]: https://github.com/tobetz/LegoMicroscope/blob/main/README_D.md
 [Readme_FR]: https://github.com/tobetz/LegoMicroscope/blob/main/README_FR.md
 [Readme_ES]: https://github.com/tobetz/LegoMicroscope/blob/main/README_ES.md
+[Readme_IT]: https://github.com/tobetz/LegoMicroscope/blob/main/README_IT.md
 [ExplorerKitEN]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/EN_Manual%20discovery%20kit.docx
 [ExplorerKitD]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/DE_Anleitung_Entdecker_Kit.docx
 [ExplorerKitNL]: https://github.com/tobetz/LegoMicroscope/blob/main/Lego_Package/NL_Handleiding%20bouwpakket.docx

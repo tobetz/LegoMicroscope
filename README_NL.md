@@ -1,5 +1,5 @@
 
-[English][Readme]   [Deutsch][Readme_D]   [Nederlands][Readme_NL]   [Español][Readme_ES]   [Français][Readme_FR]
+[English][Readme]   [Deutsch][Readme_D]   [Nederlands][Readme_NL]   [Español][Readme_ES]   [Français][Readme_FR]    [Italian][Readme_IT]
 # LegoMicroscoop
 
 Welkom op de Github-pagina van de LEGO microscoop. Hier zijn alle instructies beschikbaar die nodig zijn om een LEGO  microscoop te bouwen. Daarnaast hopen we dat
@@ -95,6 +95,7 @@ This work is licensed under a
 [Readme]: https://github.com/tobetz/LegoMicroscope/blob/main/README.md
 [Readme_FR]: https://github.com/tobetz/LegoMicroscope/blob/main/README_FR.md
 [Readme_ES]: https://github.com/tobetz/LegoMicroscope/blob/main/README_ES.md
+[Readme_IT]: https://github.com/tobetz/LegoMicroscope/blob/main/README_IT.md
 [EU_Lense]: https://astromedia.de/Opti-Media-Linse-OM7
 [EU_Lense_glas]: https://astromedia.de/Opti-MediaAchromat-51
 [UK_Lense]: http://www.astromediashop.co.uk/Components.html
